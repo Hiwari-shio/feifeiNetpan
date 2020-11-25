@@ -1,0 +1,25 @@
+login.html
+基于login.js
+{
+1》服务器的api（如http://192.168.0.105:8080/api-system/role/login"  可能需要分类？） 
+2》变量：{
+userName 账号
+password 密码
+/* code 验证码（虽然个人感觉可以不用，暂时注释掉了）*/
+}
+3》
+
+}
+
+register.html  如果布局混乱，请去除第19行的注释（<link href="css/sb-admin-2.css" rel="stylesheet"> ）
+
+基于register.js
+{
+1》服务器url（同上）
+2》变量：
+username
+password
+nickName
+userEmail
+
+}
